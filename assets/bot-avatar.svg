@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="העוזר הדיגיטלי של חיוך בריא">
+  <title>העוזר הדיגיטלי של חיוך בריא</title>
+  <!-- Circle background -->
+  <circle cx="64" cy="64" r="64" fill="#e0f2fe"/>
+  <circle cx="64" cy="64" r="60" fill="none" stroke="#bae6fd" stroke-width="2"/>
+
+  <!-- Headset band -->
+  <path d="M30 60 C 30 30, 98 30, 98 60" fill="none" stroke="#0369a1" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Tooth -->
+  <path d="M64 34
+           C 55 28, 37 29, 36 47
+           C 35 62, 42 70, 44 82
+           C 46 94, 47 104, 54 104
+           C 61 104, 60 88, 64 88
+           C 68 88, 67 104, 74 104
+           C 81 104, 82 94, 84 82
+           C 86 70, 93 62, 92 47
+           C 91 29, 73 28, 64 34 Z"
+        fill="#ffffff" stroke="#0ea5e9" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- Shine -->
+  <path d="M45 46 C 46 40, 51 37, 56 37" fill="none" stroke="#bae6fd" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Ear cups -->
+  <rect x="25" y="54" width="12" height="20" rx="6" fill="#0ea5e9"/>
+  <rect x="91" y="54" width="12" height="20" rx="6" fill="#0ea5e9"/>
+  <!-- Mic -->
+  <path d="M31 72 C 31 84, 40 88, 50 86" fill="none" stroke="#0369a1" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="52" cy="86" r="3.5" fill="#0369a1"/>
+
+  <!-- Eyes -->
+  <ellipse cx="56" cy="57" rx="3.6" ry="4.6" fill="#0f2a3d"/>
+  <ellipse cx="72" cy="57" rx="3.6" ry="4.6" fill="#0f2a3d"/>
+  <circle cx="57.2" cy="55.4" r="1.2" fill="#fff"/>
+  <circle cx="73.2" cy="55.4" r="1.2" fill="#fff"/>
+  <!-- Cheeks -->
+  <ellipse cx="49" cy="66" rx="4.5" ry="3" fill="#fbcfe8" opacity="0.85"/>
+  <ellipse cx="79" cy="66" rx="4.5" ry="3" fill="#fbcfe8" opacity="0.85"/>
+  <!-- Smile -->
+  <path d="M57 66 Q 64 74, 71 66" fill="none" stroke="#0f2a3d" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Chat bubble -->
+  <g transform="translate(88 12)">
+    <path d="M4 0 H 28 A 4 4 0 0 1 32 4 V 18 A 4 4 0 0 1 28 22 H 12 L 5 28 V 22 H 4 A 4 4 0 0 1 0 18 V 4 A 4 4 0 0 1 4 0 Z" fill="#0ea5e9"/>
+    <circle cx="9" cy="11" r="2.2" fill="#fff"/>
+    <circle cx="16" cy="11" r="2.2" fill="#fff"/>
+    <circle cx="23" cy="11" r="2.2" fill="#fff"/>
+  </g>
+</svg>
